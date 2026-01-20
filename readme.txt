@@ -1,1 +1,3 @@
-new text in repo checking github
+new text in repo checking GitHub
+
+this is third line 
